@@ -1,8 +1,8 @@
 <?php
-
+//variável tem $ no começo
     echo"laço FOR"."<br>";
     for($i=0;$i<=10;$i++){
-        echo $i."<br>";
+        echo $i."<br>";//contatena com .
     }
 
     echo"<br>laço WHILE"."<br>";

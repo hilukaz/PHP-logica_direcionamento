@@ -5,6 +5,7 @@
     <body>
         <h1>Menu de opções</h1><BR>
         <a href="opcao.php?tela=01">TELA 01</a>&nbsp;
+        <!--vai pra tela direcionada e puxa uma varável junto com ela-->
         <a href="opcao.php?tela=02">TELA 02</a>&nbsp;
         <a href="opcao.php?tela=03">TELA 03</a><br><br>
 
